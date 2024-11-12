@@ -1,4 +1,11 @@
-## Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zbaharyilmaz.zbaharyilmaz">
+<h1 align="center">
+  <a href="https://github.com/zbaharyilmaz">
+    <img src="https://readme-typing-svg.herokuapp.com?size=36&center=true&multiline=true&width=500&height=100&lines=Hello%2C+There!+%F0%9F%91%8B;Happy+to+see+you+%F0%9F%98%8A">
+  </a>
+  
+  
+  ## Hi there 👋
 
 <!--
 **zbaharyilmaz/zbaharyilmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
