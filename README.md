@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zbaharyilmaz.zbaharyilmaz">
 <h1 align="center">
   <a href="https://github.com/zbaharyilmaz" color="magenta">
-<a href="https://giphy.com/gifs/Paranoiia-RFWYL3CCOBk2lDiCup"></a>
+<img src="https://giphy.com/gifs/Paranoiia-RFWYL3CCOBk2lDiCup" width=400px >
   
   </a>
 </h1>
