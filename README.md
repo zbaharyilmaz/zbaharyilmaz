@@ -1,14 +1,19 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zbaharyilmaz.zbaharyilmaz">
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=zbaharyilmaz.zbaharyilmaz">
 <h1 align="center">
   <a href="https://github.com/zbaharyilmaz">
-    <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width=300px>
+    <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
   </a>
+</h1>
+<h2 align="center">Contact Me With</h2>
+<h5 align="center">
+- I continue my fullstack education. <br>
   
-  
-  ## Hi there 👋
+  <code><a href="" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg">LinkedIn </a></code>
+</h5>
+<hr>
 
 <!--
-**zbaharyilmaz/zbaharyilmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
