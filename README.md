@@ -1,7 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zbaharyilmaz.zbaharyilmaz">
 <h1 align="center">
   <a href="https://github.com/zbaharyilmaz" align="right">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFhMG8zM3E2enFlbnFiM3UyMnU4bHMwZnBkMHoxZGo4amc4cndqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RFWYL3CCOBk2lDiCup/giphy.webp">
+
+
+<img src="https://giphy.com/gifs/olivertree-little-big-the-internet-oliver-tree-2Kpg3rsg0uRi7ZhKsU">
 </h1>
 <h2 align="left">Contact Me With</h2>
 
@@ -25,4 +27,5 @@ Here are some ideas to get you started:
   
   <code><a href="#" title="LinkedIn Profile"><img width="15" src="images/linkedin.svg">LinkedIn </a></code>
 </h5>
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFhMG8zM3E2enFlbnFiM3UyMnU4bHMwZnBkMHoxZGo4amc4cndqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RFWYL3CCOBk2lDiCup/giphy.webp">
 -->
