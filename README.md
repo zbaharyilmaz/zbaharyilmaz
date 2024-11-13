@@ -3,7 +3,7 @@
   <a href="https://github.com/zbaharyilmaz" align="right">
 
 
-<img src="https://giphy.com/gifs/olivertree-little-big-the-internet-oliver-tree-2Kpg3rsg0uRi7ZhKsU">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2FiZGR6MjVoOXB4aXM1bmdoZ3Ywc3E3dTNicTdscDRmOGVtMHg5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Kpg3rsg0uRi7ZhKsU/giphy.webp">
 </h1>
 <h2 align="left">Contact Me With</h2>
 
