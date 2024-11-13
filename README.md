@@ -2,6 +2,7 @@
 <h1 align="center">
   <a href="https://github.com/zbaharyilmaz" color="magenta">
     <img src="  https://giphy.com/gifs/Paranoiia-RFWYL3CCOBk2lDiCup" width=400px >
+    <iframe src="https://giphy.com/embed/RFWYL3CCOBk2lDiCup" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Paranoiia-RFWYL3CCOBk2lDiCup">via GIPHY</a></p>
   
   </a>
 </h1>
