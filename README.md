@@ -1,7 +1,7 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=zbaharyilmaz.zbaharyilmaz">
 <h1 align="center">
   <a href="https://github.com/zbaharyilmaz" color="magenta">
-    <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width=300px>
+    <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width=300px >
   </a>
 </h1>
 <h2 align="center">Contact Me With</h2>
