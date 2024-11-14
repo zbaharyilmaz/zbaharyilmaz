@@ -3,7 +3,8 @@
   <a href="https://github.com/zbaharyilmaz" align="right">
 
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2FiZGR6MjVoOXB4aXM1bmdoZ3Ywc3E3dTNicTdscDRmOGVtMHg5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Kpg3rsg0uRi7ZhKsU/giphy.webp">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBrYzYxcno2MncwNmV1a3ZtNTNocjU0ZmhtN3VtcHQybm9hN3VmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.webp">
+
 </h1>
 <h2 align="left">Contact Me With</h2>
 
@@ -28,4 +29,5 @@ Here are some ideas to get you started:
   <code><a href="#" title="LinkedIn Profile"><img width="15" src="images/linkedin.svg">LinkedIn </a></code>
 </h5>
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFhMG8zM3E2enFlbnFiM3UyMnU4bHMwZnBkMHoxZGo4amc4cndqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RFWYL3CCOBk2lDiCup/giphy.webp">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2FiZGR6MjVoOXB4aXM1bmdoZ3Ywc3E3dTNicTdscDRmOGVtMHg5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Kpg3rsg0uRi7ZhKsU/giphy.webp">
 -->
