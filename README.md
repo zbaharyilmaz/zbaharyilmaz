@@ -2,11 +2,10 @@
 <h1 align="center">
   <a href="https://github.com/zbaharyilmaz" align="right">
 
-
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNxdHd6M3BiOTVwMmg3ZjQ1cXFjMXpkdWx5MXY3cm53eXR5ZWl1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gi84IkFRzwube/giphy.webp" width=150px >
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFhMG8zM3E2enFlbnFiM3UyMnU4bHMwZnBkMHoxZGo4amc4cndqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RFWYL3CCOBk2lDiCup/giphy.webp">
 
 </h1>
-<h2 align="left">Contact Me With</h2>
+
 
 <hr>
 
@@ -30,4 +29,8 @@ Here are some ideas to get you started:
 </h5>
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFhMG8zM3E2enFlbnFiM3UyMnU4bHMwZnBkMHoxZGo4amc4cndqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RFWYL3CCOBk2lDiCup/giphy.webp">
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2FiZGR6MjVoOXB4aXM1bmdoZ3Ywc3E3dTNicTdscDRmOGVtMHg5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Kpg3rsg0uRi7ZhKsU/giphy.webp">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNxdHd6M3BiOTVwMmg3ZjQ1cXFjMXpkdWx5MXY3cm53eXR5ZWl1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gi84IkFRzwube/giphy.webp" width=150px >
+
+
+
 -->
