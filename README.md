@@ -2,6 +2,8 @@
 <h1 align="center">
   <a href="https://github.com/zbaharyilmaz" align="right">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+
+   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFhMG8zM3E2enFlbnFiM3UyMnU4bHMwZnBkMHoxZGo4amc4cndqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RFWYL3CCOBk2lDiCup/giphy.webp">
  
 <!--
 **** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
