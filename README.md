@@ -6,7 +6,6 @@ I'm on an exciting journey in coding and currently expanding my skills through a
 Feel free to check out my projects and join me on my coding adventure!
 ### Skills I'm Building 🛠️
 - HTML, CSS, JavaScript
-- React, Node.js, Express
-- SQL, MongoDB
+- React, Node.js
 ### A Little About Me 😉
 I'm a lifelong learner and always open to collaboration! I'm all about adding color and creativity to everything I do! I’m passionate about designs, love experimenting with different styles, and have a slight obsession with stickers. Whether it's bringing code to life with a bit of flair or finding inspiration in art, I believe in making things as visually inspiring as they are functional.
