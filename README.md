@@ -2,7 +2,7 @@
 <h1 align="center">
   <a href="https://github.com/zbaharyilmaz" align="right">
  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFhMG8zM3E2enFlbnFiM3UyMnU4bHMwZnBkMHoxZGo4amc4cndqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RFWYL3CCOBk2lDiCup/giphy.webp">
-
+- 🔭 I’m currently  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width=50px> <img src=""> <img src="">
 <!--
 **** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
