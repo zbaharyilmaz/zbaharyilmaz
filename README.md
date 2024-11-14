@@ -3,7 +3,7 @@
   <a href="https://github.com/zbaharyilmaz" align="right">
 
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBrYzYxcno2MncwNmV1a3ZtNTNocjU0ZmhtN3VtcHQybm9hN3VmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.webp" width=100px>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNxdHd6M3BiOTVwMmg3ZjQ1cXFjMXpkdWx5MXY3cm53eXR5ZWl1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gi84IkFRzwube/giphy.webp">
 
 </h1>
 <h2 align="left">Contact Me With</h2>
