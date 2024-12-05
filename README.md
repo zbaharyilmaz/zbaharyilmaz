@@ -4,8 +4,8 @@
 ### Hi there, I'm Bahar! 🦉
 I'm on an exciting journey in coding and currently expanding my skills through a full-stack bootcamp. I’m passionate about coding, problem-solving, and exploring new technologies.
 Feel free to check out my projects and join me on my coding adventure!
-### Skills I'm Building 🛠️
-- HTML, CSS, JavaScript
+### Skills 🛠️
+- HTML, CSS, JavaScript, Sass, Bootstrap
 - React, Node.js
   
 <!--
