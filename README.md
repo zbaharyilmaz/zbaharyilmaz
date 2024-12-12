@@ -1,4 +1,4 @@
-<h2 align="left">Hi There👋<br> <br>My name is Bahar!</h2>
+<h2 align="left">Hi There👋<br> <br>My name is Bahar!</h2> ![Profile Views](https://your-badge-url)
 
 ###
 
