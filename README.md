@@ -1,13 +1,34 @@
-</a> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zbaharyilmaz.zbaharyilmaz">
-<a href="https://github.com/zbaharyilmaz" align="right">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFhMG8zM3E2enFlbnFiM3UyMnU4bHMwZnBkMHoxZGo4amc4cndqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RFWYL3CCOBk2lDiCup/giphy.webp">
-### Hi there, I'm Bahar! 🦉
-I'm on an exciting journey in coding and currently expanding my skills through a full-stack bootcamp. I’m passionate about coding, problem-solving, and exploring new technologies.
-Feel free to check out my projects and join me on my coding adventure!
-### Skills 🛠️
-- HTML, CSS, JavaScript, Sass, Bootstrap
-- React, Node.js
-  
-<!--
-### A Little About Me 😉
-I'm a lifelong learner and always open to collaboration! I'm all about adding color and creativity to everything I do! I’m passionate about designs, love experimenting with different styles, and have a slight obsession with stickers. Whether it's bringing code to life with a bit of flair or finding inspiration in art, I believe in making things as visually inspiring as they are functional. !>>
+<h2 align="left">Hi 👋<br>My name is Bahar! <br>I'm on an exciting journey in coding and currently expanding my skills through a full-stack bootcamp. I’m passionate about coding, problem-solving, and exploring new technologies. Feel free to check out my projects and join me on my coding adventure!</h2>
+
+###
+
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJsc2NlcDZyMnBlc2djbHVvdm1hNDM4NnRqbnk4Y3FpNDJtY3IwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOZhmE42D1WrCWATLK/giphy.webp"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="37" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="37" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="37" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="37" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="37" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="37" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="37" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="37" alt="bootstrap logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="gmail logo"  />
+</div>
+
+###
