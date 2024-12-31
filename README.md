@@ -35,13 +35,12 @@
 </div>
 
 ###
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJsc2NlcDZyMnBlc2djbHVvdm1hNDM4NnRqbnk4Y3FpNDJtY3IwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOZhmE42D1WrCWATLK/giphy.webp"  />
+<img align="right" height="150" src="" />
 
 ###
 
 <p align="left">I'm on an exciting journey in coding and expanding my skills. I’m passionate about coding, problem-solving, and exploring new technologies. Feel free to check out my projects and join me on my coding adventure!</p>
 
 ###
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zbaharyilmaz&show_icons=true&locale=en" alt="zbaharyilmaz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zbaharyilmaz&" alt="zbaharyilmaz" /></p>
