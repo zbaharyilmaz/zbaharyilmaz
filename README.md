@@ -35,9 +35,6 @@
 </div>
 
 ###
-<img align="right" height="150" src="" />
-
-###
 
 <p align="left">I'm on an exciting journey in coding and expanding my skills. I’m passionate about coding, problem-solving, and exploring new technologies. Feel free to check out my projects and join me on my coding adventure!</p>
 
