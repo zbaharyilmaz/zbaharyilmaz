@@ -1,5 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zbaharyilmaz.zbaharyilmaz">
-<h2 align="left">Hi There👋<br> <br>My name is Bahar!</h2> 
+<h2 align="left">Hi 👋, I'm Bahar!</h2> 
 
 ###
 <div align="left">
@@ -7,21 +7,19 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
    <a href="https://medium.com/@zbahar" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="52" height="40" alt="medium logo"  />
    </a>
 </div>
 
 ###
-
 ###
 </div>
 
 ###
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="37" alt="javascript logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="37" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="37" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="37" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="37" alt="html5 logo"  />
   <img width="12" />
@@ -37,11 +35,13 @@
 </div>
 
 ###
-
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJsc2NlcDZyMnBlc2djbHVvdm1hNDM4NnRqbnk4Y3FpNDJtY3IwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOZhmE42D1WrCWATLK/giphy.webp"  />
 
 ###
 
-<p align="left">I'm on an exciting journey in coding and currently expanding my skills through a full-stack bootcamp. I’m passionate about coding, problem-solving, and exploring new technologies. Feel free to check out my projects and join me on my coding adventure!</p>
+<p align="left">I'm on an exciting journey in coding and expanding my skills. I’m passionate about coding, problem-solving, and exploring new technologies. Feel free to check out my projects and join me on my coding adventure!</p>
 
 ###
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zbaharyilmaz&show_icons=true&locale=en" alt="zbaharyilmaz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zbaharyilmaz&" alt="zbaharyilmaz" /></p>
