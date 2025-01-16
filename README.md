@@ -36,7 +36,30 @@
 
 ###
 
-<p align="left">I'm on an exciting journey in coding and expanding my skills. I’m passionate about coding, problem-solving, and exploring new technologies. Feel free to check out my projects and join me on my coding adventure!</p>
+<p align="left">I’m on an exciting journey in coding, continuously expanding my skills and diving deeper into the world of full-stack development. From building dynamic front-end interfaces to architecting robust back-end systems, I love creating end-to-end solutions that bring ideas to life.</p>
+
+## 🦉About Me 
+
+**Passionate Problem-Solver:** Tackling complex challenges and finding innovative solutions is what drives me every day.
+
+**Full-Stack Enthusiast:** I enjoy working across the entire development stack, whether it's designing responsive user interfaces, crafting APIs, or optimizing database performance.
+
+**Lifelong Learner:** Staying updated with the latest technologies and trends is my way of keeping things exciting. I’m always looking to add new tools to my tech arsenal.
+
+## 🎯My Projects
+I love turning ideas into reality through code. Feel free to check out my repositories where you’ll find:
+
+-Full-stack applications
+
+-Interactive front-end projects
+
+-Back-end API designs
+
+And much more!
+
+## 🤝Let’s Connect!
+
+I’m excited to collaborate with like-minded developers, contribute to meaningful projects, and grow alongside this vibrant tech community. If you're as passionate about technology as I am, let’s connect and build something amazing together!
 
 ###
 
