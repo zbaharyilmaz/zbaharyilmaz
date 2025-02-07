@@ -1,6 +1,8 @@
 
 
 <p align="center">
+  <br>
+  <br>
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zbaharyilmaz.zbaharyilmaz&right_color=Chocolate" />
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&pause=1000&color=8B4513&center=true&vCenter=true&width=500&lines=🦉+Hi,+I'm+Bahar!;&weight=700" alt="Typing SVG" />
 </p>
