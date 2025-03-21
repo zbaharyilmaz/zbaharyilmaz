@@ -50,6 +50,7 @@ Currently, I am focusing on both frontend and backend systems, and I truly enjoy
 </div>
 
 ### My Stats
+![GitHub-Profile-3D-Contrib](./profile-3d-contrib/profile-green-animate.svg)
 
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zbaharyilmaz&theme=gruvbox&hide_border=false" alt="zbaharyilmaz's Streak" />
