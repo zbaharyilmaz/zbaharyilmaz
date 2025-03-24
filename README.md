@@ -14,32 +14,48 @@ Currently, I am focusing on both frontend and backend systems, and I truly enjoy
 <br>
 
 ### My Tech Stack
-<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start; align-items: center;">
+  
   <!-- Frontend Technologies -->
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" height="28" alt="react logo" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" height="28" alt="javascript logo" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" height="28" alt="typescript logo" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square" height="28" alt="nextjs logo" />
-</div>
-<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; align-items: center;">
-  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=flat-square" height="28" alt="sass logo" />
-  <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=flat-square" height="28" alt="materialui logo" />
-  <img src="https://img.shields.io/badge/Tailwind+CSS-06B6D4?logo=tailwindcss&logoColor=black&style=flat-square" height="28" alt="tailwindcss logo" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square" height="28" alt="bootstrap logo" />
-  <img src="https://img.shields.io/badge/Styled%20Components-DB7093?logo=styled-components&logoColor=white&style=flat-square" height="28" alt="styled components logo" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" height="28" alt="html5 logo" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" height="28" alt="css3 logo" />
-</div>
-<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-start; align-items: center;">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square" height="28" alt="firebase logo" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" height="28" alt="postgresql logo" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat-square" height="28" alt="redux logo" />
-  <img src="https://img.shields.io/badge/Formik-1C6BFF?logo=formik&logoColor=white&style=flat-square" height="28" alt="formik logo" />
-  <img src="https://img.shields.io/badge/Yup-00B2A9?logo=yup&logoColor=white&style=flat-square" height="28" alt="yup logo" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" height="28" alt="React logo" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square" height="28" alt="Next.js logo" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" height="28" alt="JavaScript logo" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" height="28" alt="TypeScript logo" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" height="28" alt="HTML5 logo" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" height="28" alt="CSS3 logo" />
+
+  <!-- React Ecosystem -->
+  <img src="https://img.shields.io/badge/React%20Router-CA4245?logo=react-router&logoColor=white&style=flat-square" height="28" alt="React Router logo" />
+  <img src="https://img.shields.io/badge/Context%20API-61DAFB?logo=react&logoColor=black&style=flat-square" height="28" alt="Context API logo" />
+  <img src="https://img.shields.io/badge/Custom%20Hooks-61DAFB?logo=react&logoColor=black&style=flat-square" height="28" alt="Custom Hooks logo" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat-square" height="28" alt="Redux logo" />
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?logo=redux&logoColor=white&style=flat-square" height="28" alt="Redux Toolkit logo" />
+  <img src="https://img.shields.io/badge/Firebase%20Auth-FFCA28?logo=firebase&logoColor=black&style=flat-square" height="28" alt="Firebase Authentication logo" />
+
+  <!-- Styling & UI Libraries -->
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=black&style=flat-square" height="28" alt="Tailwind CSS logo" />
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=white&style=flat-square" height="28" alt="Material UI logo" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square" height="28" alt="Bootstrap logo" />
+  <img src="https://img.shields.io/badge/React%20Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square" height="28" alt="React Bootstrap logo" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=flat-square" height="28" alt="Sass logo" />
+
+  <!-- Backend & Databases -->
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" height="28" alt="Node.js logo" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat-square" height="28" alt="Express.js logo" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" height="28" alt="PostgreSQL logo" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" height="28" alt="MongoDB logo" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?logo=mongodb&logoColor=white&style=flat-square" height="28" alt="Mongoose logo" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" height="28" alt="Python logo" />
+
+  <!-- Tools & DevOps -->
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" height="28" alt="Git logo" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square" height="28" alt="Postman logo" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" height="28" alt="Docker logo" />
+  <img src="https://img.shields.io/badge/REST%20API-005571?logo=api&logoColor=white&style=flat-square" height="28" alt="REST API logo" />
+
 </div>
 
-
-
+<br>
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zbaharyilmaz&theme=gruvbox&hide_border=false" alt="zbaharyilmaz's Streak" />
 </div>
