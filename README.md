@@ -63,8 +63,6 @@ Currently, I am focusing on both frontend and backend systems, and I truly enjoy
 ## Organizations
 **CodEdu**: We aim to build a community where individuals can collaborate, learn from each other, and innovate through coding. We believe in the power of shared knowledge, and through our projects, we encourage exploration, experimentation, and practical learning.
 
-![Contribute](https://github-readme-activity-graph.vercel.app/graph?username=zbaharyilmaz&theme=github&hide_border=true&bg_color=d67b35&line=bc1fd1&point=5c1666&radius=22&from=1&height=300&custom_title=zbaharyilmaz-contributions)
-
 ## About Me
 
 **Passionate Problem-Solver:** Tackling complex challenges and finding innovative solutions is what drives me every day.
