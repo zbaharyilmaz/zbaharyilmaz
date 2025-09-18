@@ -18,6 +18,10 @@ Organizations: [Medyanes 360](https://github.com/Medyanes-360) | [CodEdu](https:
 
 </p>
 
+<table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+<tr>
+<td>
+
 ### ⚛️ Core
 
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" height="28" alt="React" />
@@ -34,6 +38,9 @@ Organizations: [Medyanes 360](https://github.com/Medyanes-360) | [CodEdu](https:
 <img src="https://img.shields.io/badge/Yup-FF6B6B?logo=yup&logoColor=white&style=flat-square" height="28" alt="Yup" />
 <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=react-hook-form&logoColor=white&style=flat-square" height="28" alt="React Hook Form" />
 
+</td>
+<td>
+
 ### ⚙️ Backend & Database
 
 <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" height="28" alt="Node.js" />
@@ -47,6 +54,11 @@ Organizations: [Medyanes 360](https://github.com/Medyanes-360) | [CodEdu](https:
 <img src="https://img.shields.io/badge/REST%20API-FF6B6B?logo=rest&logoColor=white&style=flat-square" height="28" alt="REST API" />
 <img src="https://img.shields.io/badge/Firebase%20Auth-FFCA28?logo=firebase&logoColor=black&style=flat-square" height="28" alt="Firebase Auth" />
 
+</td>
+</tr>
+<tr>
+<td>
+
 ### 🎨 Styling & UI
 
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=black&style=flat-square" height="28" alt="Tailwind CSS" />
@@ -56,6 +68,9 @@ Organizations: [Medyanes 360](https://github.com/Medyanes-360) | [CodEdu](https:
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" height="28" alt="CSS3" />
 <img src="https://img.shields.io/badge/Styled%20Components-DB7093?logo=styled-components&logoColor=white&style=flat-square" height="28" alt="Styled Components" />
 <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=flat-square" height="28" alt="Sass" />
+
+</td>
+<td>
 
 ### 🧰 Tools & Workflow
 
@@ -72,6 +87,10 @@ Organizations: [Medyanes 360](https://github.com/Medyanes-360) | [CodEdu](https:
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" height="28" alt="Docker" />
 <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white&style=flat-square" height="28" alt="ESLint" />
 <img src="https://img.shields.io/badge/PostCSS-DD3A0A?logo=postcss&logoColor=white&style=flat-square" height="28" alt="PostCSS" />
+
+</td>
+</tr>
+</table>
 
 ---
 
