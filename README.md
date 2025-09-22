@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&size=24&pause=1000&color=D76E00&center=true&vCenter=true&width=600&lines=%F0%9F%8E%A8+Pixels+and+Passion%21;Where+logic+meets+creativity%3A+Coding+is+the+new+math.&weight=1000" alt="Typing SVG" />
 </p>
 <p align="justify" style="font-size: 18px; line-height: 1.6; font-family: 'Trebuchet MS', sans-serif;">
-Currently, I am focusing on both frontend and backend systems, and I truly enjoy designing and developing solutions across both areas. The process of learning new languages and tackling fresh challenges every day is incredibly rewarding. My dedication to growth is matched by my commitment to delivering clean, efficient, and user-centered solutions.
+Software Developer with hands-on experience at Medyanes 360, focusing primarily on frontend development while also contributing to backend systems. Skilled in React.js, Next.js, JavaScript, TypeScript, Node.js, Express.js, Prisma, MongoDB, Prisma and modern UI frameworks such as Tailwind CSS and Material UI. Dedicated to writing clean, efficient, and maintainable code, collaborating in Agile teams, and delivering solutions that enhance performance and usability.
 
 **Organizations**: [Medyanes 360](https://github.com/Medyanes-360) | [CodEdu](https://github.com/codEdu-Collective)
 
