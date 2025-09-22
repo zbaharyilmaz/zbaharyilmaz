@@ -1,4 +1,4 @@
-  <div align="center">
+  <div align="right" style="position: fixed; top: 20px; right: 20px; z-index: 1000;">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=zbaharyilmaz.zbaharyilmaz&right_color=Chocolate&style=for-the-badge" alt="Visitor Badge" />
 </div>
 
@@ -12,9 +12,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&size=24&pause=1000&color=D76E00&center=true&vCenter=true&width=600&lines=%F0%9F%8E%A8+Pixels+and+Passion%21;Where+logic+meets+creativity%3A+Coding+is+the+new+math.&weight=1000" alt="Typing SVG" />
 </p>
 <p align="justify" style="font-size: 18px; line-height: 1.6; font-family: 'Trebuchet MS', sans-serif;">
-Software Developer with hands-on experience at Medyanes 360, focusing primarily on frontend development while also contributing to backend systems. Skilled in React.js, Next.js, JavaScript, TypeScript, Node.js, Express.js, Prisma, MongoDB, Prisma and modern UI frameworks such as Tailwind CSS and Material UI. Dedicated to writing clean, efficient, and maintainable code, collaborating in Agile teams, and delivering solutions that enhance performance and usability.
+Software Developer with hands-on experience, focusing primarily on frontend development while also contributing to backend systems. Skilled in React.js, Next.js, JavaScript, TypeScript, Node.js, Express.js, Prisma, MongoDB, Prisma and modern UI frameworks such as Tailwind CSS and Material UI. Dedicated to writing clean, efficient, and maintainable code, collaborating in Agile teams, and delivering solutions that enhance performance and usability.
 
 **Organizations**: [Medyanes 360](https://github.com/Medyanes-360) | [CodEdu](https://github.com/codEdu-Collective)
+
+**My Portfolio**: [bahar-turksoy-portfolio.vercel.app](https://bahar-turksoy-portfolio.vercel.app/)
 
 </p>
 
